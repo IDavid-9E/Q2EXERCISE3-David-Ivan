@@ -1,0 +1,19 @@
+/* Ensure the h1 is centered */
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: lightgray;
+    color: mediumblue;
+}
+
+/* Container background */
+.container {
+    background-color: #53D8FB;
+
+
+/* Image styling */
+img {
+    width: 80px;
+}
